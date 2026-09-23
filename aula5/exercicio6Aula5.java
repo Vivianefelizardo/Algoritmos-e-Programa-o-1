@@ -6,13 +6,13 @@ public class exercicio6Aula5{
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Código     Produto        Preço");
-        System.out.println("100     Cachorro Quente   R$ 1,20");
-        System.out.println("101     Bauru Simples     R$ 1,30");
-        System.out.println("102     Bauru com Ovo     R$ 1,50");
-        System.out.println("103     Hambúrguer        R$ 1,20");
-        System.out.println("104     Cheeseburguer     R$ 1,30");
-        System.out.println("105     Refrigerante      R$ 1,00");
+        System.out.println("Digite o código do produto: ");
+        System.out.println("100");
+        System.out.println("101");
+        System.out.println("102");
+        System.out.println("103");
+        System.out.println("104");
+        System.out.println("105");
         System.out.print("Insira o código do produto: ");
         int codigo = entrada.nextInt();
 
