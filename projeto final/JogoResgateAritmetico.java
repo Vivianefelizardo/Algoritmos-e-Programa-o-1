@@ -45,7 +45,7 @@ public class JogoResgateAritmetico {
         int vidaMaxima = 100;
         int pontuacao = 0;
         int tempoLimite = 30; 
-
+        
         System.out.println("\n\n==================================================");
         System.out.println(" ESCOLHA SEU PERSONAGEM ");
         System.out.println("==================================================");
