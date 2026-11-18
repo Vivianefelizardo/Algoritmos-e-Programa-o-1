@@ -253,7 +253,7 @@ public class JogoResgateAritmetico {
 
         if (executarDesafio(entrada, 'B', respFinal, tempoLimite + 10)) {
             pontuacao += 100;
-            System.out.println("\n[VITORIA EPICA] Voce derrotou Daniel Vorcaro e resgatou a Princesa!");
+            System.out.println("\n[VITORIA EPICA] Voce derrotou Daniel Vorcaro e resgatou o Dinhiero!");
             finalizarJogo(pontuacao, true);
         } else {
             vida = 0;
